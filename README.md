@@ -13,7 +13,7 @@ Gestion du Personnel : Suivi des gestionnaires et de leurs performances de vente
 
 Historique des Ventes : Journalisation en temps réel de toutes les transactions.
 
-Interface Moderne : Tableau de bord intuitif conçu avec Tailwind CSS (Bleu Thème).
+Interface Moderne : Tableau de bord intuitif Thème Bleu.
 
 🛠️ Technologies Utilisées
 
